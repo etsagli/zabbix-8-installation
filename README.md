@@ -287,15 +287,18 @@ installed Zabbix 8.0 monitoring dashboard.
 
 ### Service and firewall configuration
 
-![Service and firewall configuration](screenshots/05-service-and-firewall-configuration.png)
 
-### Zabbix web setup wizard
+### Zabbix server configuration
 
-![Zabbix web setup wizard](screenshots/06-web-setup-wizard.png)
+![Zabbix server configuration](screenshots/05-zabbix-server-configuration.png)
 
-### Administrator configuration
+### Database import and firewall configuration
 
-![Zabbix administrator configuration](screenshots/07-administrator-configuration.png)
+![Database import and firewall](screenshots/06-database-import-and-firewall.png)
+
+### Zabbix frontend login
+
+![Zabbix frontend login](screenshots/07-zabbix-frontend-login.png)
 
 ## Completion
 
