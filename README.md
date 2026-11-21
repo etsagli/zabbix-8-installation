@@ -6,12 +6,13 @@ A step-by-step guide to installing and configuring **Zabbix 8.0** with **MySQL**
 
 ## Video Demonstration
 
-## Video Demonstration
+The following video provides a practical walkthrough of the Zabbix 8.0 installation and initial configuration on Ubuntu.
 
-Watch the complete Zabbix 8.0 installation walkthrough:
+![Zabbix 8.0 Installation](screenshots/01-zabbix-dashboard.png)
 
-[![Zabbix 8.0 Installation on Ubuntu](screenshots/01-zabbix-dashboard.png)](https://youtu.be/2-hw971da6I)
+**Watch the full installation tutorial on YouTube:**
 
+[Zabbix 8.0 Installation on Ubuntu | Step-by-Step Guide](https://youtu.be/2-hw971da6I)
 
 > The video is publicly accessible on YouTube.
 
