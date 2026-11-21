@@ -297,8 +297,6 @@ installed Zabbix 8.0 monitoring dashboard.
 
 ![Zabbix administrator configuration](screenshots/07-administrator-configuration.png)
 
-> **Video demonstration:** The full installation recording is maintained separately from this repository package. For convenient hosting, upload the MP4 as an asset to a GitHub Release or publish it on a video-hosting service, then add its link here. Review the recording for any visible credentials or infrastructure details before making it public.
-
 ## Completion
 
 The Zabbix 8.0 installation and initial frontend configuration are complete once you can log in, change the default administrator password, and confirm that the local Zabbix server is available.
