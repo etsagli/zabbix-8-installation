@@ -285,9 +285,6 @@ installed Zabbix 8.0 monitoring dashboard.
 
 ![MySQL database configuration](screenshots/04-database-configuration.png)
 
-### Service and firewall configuration
-
-
 ### Zabbix server configuration
 
 ![Zabbix server configuration](screenshots/05-zabbix-server-configuration.png)
